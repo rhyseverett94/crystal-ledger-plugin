@@ -1,19 +1,16 @@
 [
   {
-    "Author": "Rhys",
+    "Author": "Private",
     "Name": "Crystal Ledger",
     "InternalName": "CrystalLedger",
-    "AssemblyVersion": "1.0.141.0",
-    "TestingAssemblyVersion": "1.0.141.0",
-    "Description": "Reads what your character owns while you play (collections the Lodestone doesn't show, currencies, bags, saddlebag, armoury, and each retainer once you open them at a bell) and uploads it to your own Crystal Market Ledger site with your private key. Nothing is sent anywhere else.",
-    "Punchline": "Sends your collections, bags, retainers and desynthesis skill to your Crystal Market Ledger site.",
+    "AssemblyVersion": "1.0.143.0",
+    "TestingAssemblyVersion": "1.0.143.0",
+    "Description": "Personal plugin, not for general use.",
+    "Punchline": "Personal plugin.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rhyseverett94/crystal-ledger-plugin",
     "Tags": [
-      "market",
-      "inventory",
-      "retainers",
-      "collections"
+      "personal"
     ],
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/rhyseverett94/crystal-ledger-plugin/main/CrystalLedger.zip",
@@ -21,6 +18,6 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/rhyseverett94/crystal-ledger-plugin/main/CrystalLedger.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794018658
+    "LastUpdate": 1794018968
   }
 ]
