@@ -3,8 +3,8 @@
     "Author": "Private",
     "Name": "Crystal Ledger",
     "InternalName": "CrystalLedger",
-    "AssemblyVersion": "1.0.147.0",
-    "TestingAssemblyVersion": "1.0.147.0",
+    "AssemblyVersion": "1.0.152.0",
+    "TestingAssemblyVersion": "1.0.152.0",
     "Description": "Personal plugin, not for general use.",
     "Punchline": "Personal plugin.",
     "ApplicableVersion": "any",
@@ -18,6 +18,6 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/rhyseverett94/crystal-ledger-plugin/main/CrystalLedger.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794025164
+    "LastUpdate": 1794026135
   }
 ]
